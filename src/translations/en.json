@@ -14,7 +14,7 @@
     "light": "Lights",
     "security": "Security",
     "climate": "Climate",
-    "home": "Overview - Hello World"
+    "home": "Overview"
   },
   "state": {
     "default": {
