@@ -4,7 +4,7 @@
     "energy": "Energy",
     "calendar": "Calendar",
     "config": "Settings",
-    "states": "Overview - Hello World! My first change in the Home Assistant Fork!",
+    "states": "Overview",
     "map": "Map",
     "logbook": "Activity",
     "history": "History",
@@ -14,7 +14,7 @@
     "light": "Lights",
     "security": "Security",
     "climate": "Climate",
-    "home": "Overview"
+    "home": "Overview - Hello World"
   },
   "state": {
     "default": {
